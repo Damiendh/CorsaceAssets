@@ -1,9 +1,9 @@
 {
-    "flag": "https://osu.ppy.sh/images/flags/ID.png",
+    "flag": "https://osu.ppy.sh/images/flags/DE.png",
     "ayim": {
         "layout": {
-            "mca2018": "MAPPER'S CHOICE AWARDS 2018",
-            "days": "HARI TERSISA UNTUK MEMILIH",
+            "mca2018": "2018 MAPPER'S CHOICE AWARDS",
+            "days": "TAGE ZUM ABSTIMMEN",
             "nav": {
                 "standard": "standard",
                 "taiko": "taiko",
@@ -13,7 +13,7 @@
             }
         },
         "index": {
-            "homeTitle": "pembukaan",
+            "homeTitle": "Einleitung",
             "home": "AYIM 2018"
         }
     }
